@@ -1,0 +1,11 @@
+---
+title: "Ch16DummyB"
+author: "Adam Reed"
+date: "June 15, 2019"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#Blah
+```
